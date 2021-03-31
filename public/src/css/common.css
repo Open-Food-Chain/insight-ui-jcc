@@ -642,6 +642,12 @@ margin-left: 0;
   width: 20%;
 }
 
+#powered a.komodoplatform {
+  background-image: url('../img/jc.svg');
+  background-size: 80px;
+  width: 100%;
+}
+
 @keyframes rotateThis {
 	from { transform: scale( 1 ) rotate( 0deg );   }
 	to   { transform: scale( 1 ) rotate( 360deg ); }

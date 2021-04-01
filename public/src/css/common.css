@@ -115,7 +115,7 @@ margin-left: 0;
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #373D42;}
 
 .navbar-default {
-  background-color: #ccded5;
+  background-color: #FFCC00;
   margin: 0;
   border: 0;
 }
@@ -128,7 +128,7 @@ margin-left: 0;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
-  background-color: #ccded5;
+  background-color: #FFCC00;
   color: #346464;
 }
 
@@ -643,8 +643,8 @@ margin-left: 0;
 }
 
 #powered a.komodoplatform {
-  background-image: url('../img/jc.svg');
-  background-size: 80px;
+  background-image: url('../img/jc.svg') !important;
+  background-size: 200px !important;
   width: 100%;
 }
 
